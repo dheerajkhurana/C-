@@ -1,2 +1,2 @@
 
-This repository contain solutions to different C++ problems & different data structure alogrithms.
+This repository contain solutions to different data structure alogrithms/C++ problems.
