@@ -1,2 +1,2 @@
-# C-
-This repository contain solutions to different C++ problems
+
+This repository contain solutions to different C++ problems & different data structure alogrithms.
